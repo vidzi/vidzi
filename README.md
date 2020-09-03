@@ -1,9 +1,22 @@
 ### Hi there 👋
 
-<!--
-**vidzi/vidzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Vidisha Jitani.
 
-Here are some ideas to get you started:
+- I'm currently working as an Engineering Managaer at Shuttl. I deal with new problems everyday - be it technical, people or project.
+I have primarily worked in Python and Java (but yes, lanaguage doesnt define you 😄).
+
+- I'm currently learning Neural Networks. 
+
+- I'm actively working on my side project - [MentorBrew](https://mentorbrew.com/) (if it doesnt work you, probably I've switched off the server 😛)
+
+- I sometimes write articles on [medium](https://medium.com/@vidishajitani25)
+
+
+
+
+
+<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
