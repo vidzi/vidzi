@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-This is Vidisha Jitani.
 
 - I'm currently working as an Engineering Managaer at Shuttl. I deal with new problems everyday - be it technical, people or project.
 I have primarily worked in Python and Java (but yes, lanaguage doesnt define you 😄).
