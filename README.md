@@ -6,7 +6,7 @@ I have primarily worked in Python and Java (but yes, lanaguage doesnt define you
 
 - I'm currently learning Neural Networks. 
 
-- I'm actively working on my side project - [MentorBrew](https://mentorbrew.com/) (if it doesnt work you, probably I've switched off the server 😛)
+- I'm actively working on my side project - [MentorBrew](https://mentorbrew.com/) (if it doesnt work for you, probably I've switched off the server 😛)
 
 - I sometimes write articles on [medium](https://medium.com/@vidishajitani25)
 
